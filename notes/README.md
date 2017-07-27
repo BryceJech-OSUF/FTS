@@ -1,0 +1,34 @@
+## 7/26/17
+
+1. Database
+    * PostgreSQL?
+1. Authentication
+    * Roles
+    * Teams/Orgs
+1. Users
+    * Profile options
+    * Notification Settings
+    * Profile linking (Social Media)
+    * Personal tournament & match history
+        * Show ranking/scoring logic on a per match/tournament level
+    * Teams
+1. Tournament / Registration
+    * Update global/local/team rankings after each tournament
+    * Weight tournaments by category
+        * Pro, state, local, team
+1. Transparent Ranking System
+1. Scheduler
+1. Notification System
+    * Delivery Method - email, text, push?
+1. Web front end
+    * Progressive Web App (PWA)
+    * Tournament Builder
+        * Choose from pool of team members
+        * Allow self registrations
+    * Administration
+1. User Voice
+    * Allow users to give feedback, report bugs, give and vote on community ideas
+1. Forum / Social
+1. Share to Social Media
+    * Tournament Results
+    * Match Results
