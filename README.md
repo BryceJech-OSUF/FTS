@@ -1,2 +1,2 @@
-# fts
+# FTS
 FTS Tournament Software
