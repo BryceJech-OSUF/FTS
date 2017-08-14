@@ -24,9 +24,6 @@ Bracket.prototype.finalize = function(){
     this.numPlayers = this.players.length;
     this.numTeams = (function(numPlayers, isDoubles){
         if(isDoubles){
-            if(numPlayers % 2 != 0){
-                throw new Error('Must have even number of player to play doubles');
-            }
             numPlayers = numPlayers / 2;
         }
 
