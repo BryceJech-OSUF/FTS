@@ -1,0 +1,64 @@
+/*
+    COLORS
+very-light-gray: #999
+light-gray: #6C6C6C
+gray: #383838
+
+*/
+
+*{
+    box-sizing: border-box;
+}
+html, body{
+    margin: 0;
+    padding: 0;
+}
+html{
+    /* 1rem = 10px */
+    font-size: 62.5%;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    /*
+      Prevent small devices from auto zooming on focused inputs
+    */
+    font-size: 1.6rem;
+    color: #383838;
+    background-color: #FAFAFA;
+}
+
+
+h1, h2, h3, h4, h5, h6{
+    margin-bottom: 10px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+
+h1{
+    font-size: 4rem;
+}
+h2{
+    font-size: 3.6rem;
+}
+h3{
+    font-size: 3.2rem;
+}
+h4{
+    font-size: 2.8rem;
+}
+h5{
+    font-size: 2.4rem;
+}
+h6{
+    font-size: 2rem;
+}
+
+p{
+    text-align: left;
+}
+hr{
+    border: none;
+    border-top: 1px solid #A1A1A1;
+    margin: 25px 0;
+}
